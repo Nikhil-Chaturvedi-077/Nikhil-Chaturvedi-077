@@ -13,19 +13,19 @@
 
 <p align="left">
   <a href="https://www.instagram.com/_vickychaturvedi_07/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
-  </a>
-  &nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.codechef.com/users/vickydon_07">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" />
-  </a>
-  &nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://codeforces.com/profile/Nikhil_Chaturvedii07">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" />
-  </a>
-  &nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/NIKHILCHATURVEDI/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30" />
   </a>
 </p>
 
