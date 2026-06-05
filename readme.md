@@ -10,11 +10,29 @@
 - 📫 How to reach me **nikhilchaturvedi07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/_vickychaturvedi_07/?__pwa=1#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vickychaturvedi_07/?__pwa=1#" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vickydon_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vickydon_07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/nikhil_chaturvedii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nikhil_chaturvedii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nikhilchaturvedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nikhilchaturvedi/" height="30" width="40" /></a>
+  <a href="YOUR_INSTAGRAM">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="YOUR_CODECHEF">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="YOUR_CODEFORCES">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="YOUR_LEETCODE">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  </a>
 </p>
 
 <!-- ✅ Holopin badge (centered) -->
