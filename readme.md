@@ -1,47 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nikhil Chaturvedi</h1>
-<h3 align="center">A passionate competitive programmer and full stack developer .</h3>
+# 💫 About Me:
+🔭 I’m currently working on improving my problem-solving skills and building impactful projects.<br><br>👯 I’m looking to collaborate on Competitive Programming, DSA, and open-source projects.<br><br>🤝 I’m looking for help with advanced Data Structures & Algorithms and efficient problem-solving techniques.<br><br>🌱 I’m currently learning advanced DSA and System Design.<br><br>💬 Ask me about C++, Data Structures & Algorithms, Competitive Programming, and Problem Solving.<br><br>⚡ Fun fact: I love solving challenging coding problems and have solved 1800+ problems across coding platforms!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-chaturvedi-077&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-chaturvedi-077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-chaturvedi-077" alt="nikhil-chaturvedi-077" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vickychaturvedi_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikhil Chaturvedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilchaturvedi07@gmail.com) 
 
-- 💬 Ask me about **CP, React and Javascript**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nikhil-Chaturvedi-077 &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nikhil-Chaturvedi-077 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-Chaturvedi-077 &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **nikhilchaturvedi07@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nikhil-Chaturvedi-077 &theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
+---
+[![](https://komarev.com/ghpvc/?username=Nikhil-Chaturvedi-077 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <a href="https://leetcode.com/u/NIKHILCHATURVEDI/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-
- <a href="https://codeforces.com/profile/Nikhil_Chaturvedii07">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" height="30" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codechef.com/users/vickydon_07">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
- <a href="https://www.instagram.com/_vickychaturvedi_07/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" />
-  </a>
-  
-</p>
-
-<!-- ✅ Holopin badge (centered) -->
-<!-- ✅ Holopin badge (centered) -->
-<p align="center">
-  <a href="https://holopin.me/nikhilchaturvedi077" target="_blank">
-    <img src="https://holopin.me/nikhilchaturvedi077" alt="Holopin Badges" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,nodejs,express,mongodb,mysql,postgresql,tailwind,bootstrap" />
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil-chaturvedi-077&show_icons=true&locale=en&layout=compact" alt="nikhil-chaturvedi-077" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
